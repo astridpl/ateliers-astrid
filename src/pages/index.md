@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Les ateliers d'Astrid
+image: /img/whatsapp-image-2019-08-09-at-21.31.07-1-.jpeg
+heading: Les ateliers d'Astrid
+subheading: 'Oser • Apprendre • Créer '
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
